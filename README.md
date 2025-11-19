@@ -1,9 +1,8 @@
-<!-- Animated Typing Intro -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=700&lines=Hi+I'm+Adithya+Guruvardhan;Software+Engineer+%7C+Full+Stack+Developer;DSA+%7C+Java+%7C+Python+Learner" />
-</h1>
+<h1 align="center">Hi 👋, I'm Adithya Guruvardhan</h1>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
 ---
+
 
 ## 👨‍💻 About Me
 - 🎓 BCA Graduate (2025)  
@@ -47,31 +46,6 @@ _Java, JSP/Servlet, MySQL, Android, SMTP_
   <a href="#"><img src="https://img.shields.io/badge/Project-Link-blue?style=for-the-badge"></a>
   <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql">
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-### **Light & Dark Mode Auto Switch**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdithyaGuruvardhan&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdithyaGuruvardhan" />
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaGuruvardhan&layout=compact" />
-</p>
-
----
-
-# 🎨 Contribution Graph Art
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdithyaGuruvardhan&bg_color=ffffff&color=000000&line=0077ff&point=000000&area=true&hide_border=true" />
 </p>
 
 ---
