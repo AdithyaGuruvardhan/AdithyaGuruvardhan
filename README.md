@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adithya Guruvardhan</h1>
-<h3 align="center">Aspiring Software Engineer | Full-Stack Developer | AI & Cybersecurity Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Full-Stack Developer</h3>
 
 ---
 
 ## 🔥 About Me
 - 🎓 BCA Graduate (2025)  
-- 💻 Passionate about **Software Engineering, Full-Stack Development, AI/ML & Cybersecurity**  
+- 💻 Passionate about **Software Engineering, Full-Stack Development**  
 - 🚀 Love building scalable applications and solving real-world problems  
-- 📚 Strong in **DSA, problem-solving, and system design fundamentals**  
+- 📚 Strong in **DSA, problem-solving, and object-oriented programming**  
 - 🌱 Currently exploring **Advanced Algorithms, Web Dev, and Mobile App Development**
 
 ---
@@ -24,10 +24,10 @@
 `Java (JSP/Servlet)` • `MySQL`
 
 ### **Tools & Platforms**
-`Android Studio` • `Git & GitHub` • `Jupyter Notebook` • `Photoshop` • `SMTP (JavaMail)`
+`Android Studio`  • `Jupyter Notebook` • `Photoshop`
 
 ### **Core CS**
-`DSA` • `Algorithms` • `OOP` • `DBMS` • `Operating Systems`
+`DSA` • `Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
 
 ---
 
@@ -37,23 +37,6 @@
 **Tech:** JSP, Servlets, MySQL, Android, HTML/CSS/JS, SMTP  
 A complete system to manage farmers/clients, subscriptions, purchase alerts, and admin notifications.
 
-🔗 [View Project](#)
-
----
-
-### 🔹 **Cybersecurity: Phishing & Brand Impersonation Detection**
-**Tech:** Python, ML, Automation  
-Detects phishing attempts using pattern analysis and brand impersonation intelligence.
-
-🔗 [View Project](#)
-
----
-
-### 🔹 **Portfolio Website (GitHub Pages)**
-**Tech:** HTML, CSS, JS  
-A clean personal website hosted on GitHub Pages.
-
-🔗 [View Project](#)
 
 ---
 
@@ -71,8 +54,8 @@ A clean personal website hosted on GitHub Pages.
 
 ## 🌐 Connect With Me
 <p>
-<a href="https://www.linkedin.com/in/adithyaguruvardhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:adithyaguruvardhan@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+<a href="https://www.linkedin.com/in/kadithyag" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+<a href="mailto:kadithyaguruvardhan@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
